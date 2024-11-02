@@ -1,4 +1,4 @@
-![Art Automation](https://github.com/user-attachments/assets/c0ff16b3-55a6-4ca5-913c-df151e4fb32e)
+![Art](https://github.com/user-attachments/assets/65d05b67-d91d-413a-b61a-cbf4604b5203)
 
 > Develop automated visual art programs.
 #
